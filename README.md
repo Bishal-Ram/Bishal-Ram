@@ -38,7 +38,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Bishal-Ram">
+  <a href="https://linkedin.com/in/Bishal Ram">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
